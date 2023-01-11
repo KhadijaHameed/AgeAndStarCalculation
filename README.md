@@ -1,3 +1,3 @@
-# AgeAndStartCalculation
+# AgeAndStarCalculation
 
 Calculate the Duration
